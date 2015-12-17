@@ -10,7 +10,7 @@
   },
   "authors": "Google Inc.",
   "source": {
-    "http": "http://www.gstatic.com/cpdc/00d66d60360ab010-Google-1.2.1.tar.gz"
+    "http": "https://github.com/skyline75489/Google-APIs-for-iOS/raw/master/zip/00d66d60360ab010-Google-1.2.1.tar.gz"
   },
   "requires_arc": true,
   "platforms": {
